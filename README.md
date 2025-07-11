@@ -595,13 +595,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-
-[🌐 Website](https://yokacanvas.com) | [📧 Contact](mailto:contact@yokacanvas.com) | [💼 Portfolio](https://behance.net/yokacanvas)
-
-</div>
-
----
-
-<div align="center">
   <p>Made with 🤍 by  <strong>  BnRamadan</strong> </p>
 </div>
